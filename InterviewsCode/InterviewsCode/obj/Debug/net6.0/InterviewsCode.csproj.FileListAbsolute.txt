@@ -1,0 +1,15 @@
+C:\Users\esteb\OneDrive\Desktop\Training\InterviewsCode\InterviewsCode\InterviewsCode\bin\Debug\net6.0\InterviewsCode.exe
+C:\Users\esteb\OneDrive\Desktop\Training\InterviewsCode\InterviewsCode\InterviewsCode\bin\Debug\net6.0\InterviewsCode.deps.json
+C:\Users\esteb\OneDrive\Desktop\Training\InterviewsCode\InterviewsCode\InterviewsCode\bin\Debug\net6.0\InterviewsCode.runtimeconfig.json
+C:\Users\esteb\OneDrive\Desktop\Training\InterviewsCode\InterviewsCode\InterviewsCode\bin\Debug\net6.0\InterviewsCode.dll
+C:\Users\esteb\OneDrive\Desktop\Training\InterviewsCode\InterviewsCode\InterviewsCode\bin\Debug\net6.0\InterviewsCode.pdb
+C:\Users\esteb\OneDrive\Desktop\Training\InterviewsCode\InterviewsCode\InterviewsCode\obj\Debug\net6.0\InterviewsCode.csproj.AssemblyReference.cache
+C:\Users\esteb\OneDrive\Desktop\Training\InterviewsCode\InterviewsCode\InterviewsCode\obj\Debug\net6.0\InterviewsCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esteb\OneDrive\Desktop\Training\InterviewsCode\InterviewsCode\InterviewsCode\obj\Debug\net6.0\InterviewsCode.AssemblyInfoInputs.cache
+C:\Users\esteb\OneDrive\Desktop\Training\InterviewsCode\InterviewsCode\InterviewsCode\obj\Debug\net6.0\InterviewsCode.AssemblyInfo.cs
+C:\Users\esteb\OneDrive\Desktop\Training\InterviewsCode\InterviewsCode\InterviewsCode\obj\Debug\net6.0\InterviewsCode.csproj.CoreCompileInputs.cache
+C:\Users\esteb\OneDrive\Desktop\Training\InterviewsCode\InterviewsCode\InterviewsCode\obj\Debug\net6.0\InterviewsCode.dll
+C:\Users\esteb\OneDrive\Desktop\Training\InterviewsCode\InterviewsCode\InterviewsCode\obj\Debug\net6.0\refint\InterviewsCode.dll
+C:\Users\esteb\OneDrive\Desktop\Training\InterviewsCode\InterviewsCode\InterviewsCode\obj\Debug\net6.0\InterviewsCode.pdb
+C:\Users\esteb\OneDrive\Desktop\Training\InterviewsCode\InterviewsCode\InterviewsCode\obj\Debug\net6.0\InterviewsCode.genruntimeconfig.cache
+C:\Users\esteb\OneDrive\Desktop\Training\InterviewsCode\InterviewsCode\InterviewsCode\obj\Debug\net6.0\ref\InterviewsCode.dll
