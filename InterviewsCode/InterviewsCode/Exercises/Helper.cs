@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InterviewsCode.TwoSum
+namespace InterviewsCode.Helper
 {
-    internal class TwoSum
+    internal class Helper
     {
         public static int[] DoTwoSum(int[] nums, int target)
         {
@@ -37,6 +37,23 @@ namespace InterviewsCode.TwoSum
             }
 
             return arrReturn.ToArray();
+        }
+
+        public static bool IsPalindrome(int x)
+        {
+            // Code converting it to string
+            /*var strNum = x.ToString();
+            var backwardsNum = "";
+            for (int i = strNum.Length - 1; i >= 0; i--)
+            {
+                backwardsNum += strNum[i]; 
+            }
+            Console.WriteLine(strNum.Equals(backwardsNum));
+            return strNum.Equals(backwardsNum);*/
+            if(x < 0)
+            {
+                return false;
+            }
         }
     }
 }
